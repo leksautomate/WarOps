@@ -1,0 +1,61 @@
+{
+  "clips": [
+    {
+      "segment": 0,
+      "file": "/home/hatch/workspace/history-video/clip_test/curated/work/clip_00.mp4",
+      "source": "internet_archive",
+      "source_id": "ia:1941-06-23_Nazis_War_On_Russia",
+      "title": "Nazis War On Russia, 1941/06/23",
+      "url": "https://archive.org/details/1941-06-23_Nazis_War_On_Russia",
+      "download_url": "https://archive.org/download/1941-06-23_Nazis_War_On_Russia/1941-06-23_Nazis_War_On_Russia_512kb.mp4",
+      "license": "public domain (Internet Archive licenseurl creativecommons.org/licenses/publicdomain/)",
+      "duration": 6.01,
+      "query": "soviet union germany operation barbarossa red army devastating",
+      "check_frames": [
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_00_f1.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_00_f2.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_00_f3.jpg"
+      ],
+      "sha1": "706611f2e6032bec",
+      "note": "Universal newsreel, June 23 1941: paratroop drop, opening of the invasion of the USSR"
+    },
+    {
+      "segment": 1,
+      "file": "/home/hatch/workspace/history-video/clip_test/curated/work/clip_01.mp4",
+      "source": "internet_archive",
+      "source_id": "ia:BattleOfRussiaII",
+      "title": "Why We Fight: The Battle of Russia Part II",
+      "url": "https://archive.org/details/BattleOfRussiaII",
+      "download_url": "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII_512kb.mp4",
+      "license": "public domain (Internet Archive licenseurl creativecommons.org/licenses/publicdomain/)",
+      "duration": 6.01,
+      "query": "soviet surrounded thousands destroyed hundreds soldiers captured aircraft",
+      "check_frames": [
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_01_f1.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_01_f2.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_01_f3.jpg"
+      ],
+      "sha1": "6417d9038c4f9fa8",
+      "note": "US War Dept. 1943: Soviet soldiers marching German POWs through snow"
+    },
+    {
+      "segment": 2,
+      "file": "/home/hatch/workspace/history-video/clip_test/curated/work/clip_02.mp4",
+      "source": "internet_archive",
+      "source_id": "ia:BattleOfRussiaII",
+      "title": "Why We Fight: The Battle of Russia Part II",
+      "url": "https://archive.org/details/BattleOfRussiaII",
+      "download_url": "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII_512kb.mp4",
+      "license": "public domain (Internet Archive licenseurl creativecommons.org/licenses/publicdomain/)",
+      "duration": 6.01,
+      "query": "german ukraine belarus territories including autumn forces taken",
+      "check_frames": [
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_02_f1.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_02_f2.jpg",
+        "/home/hatch/workspace/history-video/clip_test/curated/work/clip_frames/clip_02_f3.jpg"
+      ],
+      "sha1": "25de0119952c9821",
+      "note": "US War Dept. 1943: infantry fighting through ruined city, smoke"
+    }
+  ]
+}

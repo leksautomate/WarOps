@@ -1,0 +1,52 @@
+{
+ "clips": [
+  {
+   "segment": 0,
+   "file": "/home/hatch/workspace/history-video/clip_test/work/clip_00_0.mp4",
+   "url": "https://www.youtube.com/watch?v=Zl0a_AjL28Y",
+   "download_url": "https://www.youtube.com/watch?v=Zl0a_AjL28Y",
+   "license": "unknown — YouTube upload; verify rights before publishing",
+   "duration": 6.01,
+   "source": "youtube",
+   "source_id": "yt:Zl0a_AjL28Y",
+   "query": "soviet union germany operation barbarossa red army devastating",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_00_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_00_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_00_f3.jpg"
+   ]
+  },
+  {
+   "segment": 1,
+   "file": "/home/hatch/workspace/history-video/clip_test/work/clip_01_0.mp4",
+   "url": "https://www.youtube.com/watch?v=sZSAApfz6bU",
+   "download_url": "https://www.youtube.com/watch?v=sZSAApfz6bU",
+   "license": "unknown — YouTube upload; verify rights before publishing",
+   "duration": 6.0,
+   "source": "youtube",
+   "source_id": "yt:sZSAApfz6bU",
+   "query": "soviet surrounded thousands destroyed hundreds soldiers captured aircraft",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_01_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_01_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_01_f3.jpg"
+   ]
+  },
+  {
+   "segment": 2,
+   "file": "/home/hatch/workspace/history-video/clip_test/work/clip_02_0.mp4",
+   "url": "https://www.youtube.com/watch?v=B1NcOFT6zvw",
+   "download_url": "https://www.youtube.com/watch?v=B1NcOFT6zvw",
+   "license": "unknown — YouTube upload; verify rights before publishing",
+   "duration": 6.0,
+   "source": "youtube",
+   "source_id": "yt:B1NcOFT6zvw",
+   "query": "german ukraine belarus territories including autumn forces taken",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_02_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_02_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/work/clip_frames/clip_02_f3.jpg"
+   ]
+  }
+ ]
+}
