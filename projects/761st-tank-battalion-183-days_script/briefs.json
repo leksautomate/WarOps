@@ -1,0 +1,54 @@
+{
+ "0": {
+  "expect": "Black American tank crewman manning a .50-cal machine gun atop an M4 Sherman, France, November 1944",
+  "reject": "white-only crews, German tanks, modern reenactment, Pacific theater"
+ },
+ "1": {
+  "expect": "Long column of M4 Sherman tanks on parade/training maneuvers at Ft Knox, WWII era, period color film",
+  "reject": "modern tanks, combat footage, non-US armor"
+ },
+ "2": {
+  "expect": "General George Patton pinning the Silver Star on a Black US Army private, WWII",
+  "reject": "no Patton visible, modern uniforms, staged reenactment"
+ },
+ "3": {
+  "expect": "M4 Sherman tank struggling through deep mud, France, November 1944",
+  "reject": "dry/desert terrain, intact parade tanks, modern vehicles"
+ },
+ "4": {
+  "expect": "Knocked-out German and American tanks in a French village street, autumn 1944",
+  "reject": "intact tanks on parade, modern wrecking yard, wrong theater"
+ },
+ "5": {
+  "expect": "M4 Sherman tanks lined up in a snow-covered field near St. Vith, Belgium, winter 1944-45",
+  "reject": "summer or green landscapes, desert, non-winter scenes"
+ },
+ "6": {
+  "expect": "US tank destroyer passing through concrete dragon's-teeth anti-tank obstacles of the Siegfried Line, 1945",
+  "reject": "no dragon's teeth visible, infantry-only scene, wrong front"
+ },
+ "7": {
+  "expect": "US Sherman tanks of an armored division advancing through a German town street, March 1945",
+  "reject": "German armor, rural landscape with no town, modern street"
+ },
+ "8": {
+  "expect": "Dignified wide shot of liberated civilian prisoners walking along a road after the Gunskirchen camp liberation, 1945",
+  "reject": "gratuitous close-up atrocity imagery, combat action, modern footage"
+ },
+ "9": {
+  "expect": "American and Soviet soldiers embracing at a 1945 link-up (representative: Elbe Day, Torgau) - handshake/embrace, 'East Meets West'",
+  "reject": "combat scenes, single-army group shots, modern reenactors"
+ },
+ "10": {
+  "expect": "Burned-out destroyed M4 Sherman tank on a German town street corner, 1945, somber wreck",
+  "reject": "intact operational tanks, celebrating troops, non-German setting"
+ },
+ "11": {
+  "expect": "Black American tank crewman (machine gunner) inside an M4 Sherman in combat, France, November 1944",
+  "reject": "portrait of Ruben Rivers himself (handled separately), white-only crews, modern gear"
+ },
+ "12": {
+  "expect": "Black American light-tank crews with their tanks in a German town square, 1945",
+  "reject": "modern vehicles, reenactment, white-only units"
+ }
+}

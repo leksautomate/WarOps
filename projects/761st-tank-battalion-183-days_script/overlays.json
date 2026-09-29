@@ -1,0 +1,87 @@
+{
+ "overlays": [
+  {
+   "cue": "183 days of uninterrupted combat",
+   "kicker": "761ST TANK BATTALION",
+   "label": "DAYS OF UNINTERRUPTED COMBAT",
+   "segment": 0,
+   "type": "stat",
+   "value": 183
+  },
+  {
+   "cue": "November alone cost them 156 casualties",
+   "items": [
+    {
+     "label": "CASUALTIES",
+     "value": "156"
+    },
+    {
+     "label": "TANKS KNOCKED OUT",
+     "value": "14"
+    },
+    {
+     "label": "TANKS DAMAGED",
+     "value": "20"
+    }
+   ],
+   "segment": 4,
+   "title": "NOVEMBER 1944 \u2014 THE TOLL",
+   "type": "checklist"
+  },
+  {
+   "cue": "On May 4th, 1945",
+   "date": "4 MAY 1945",
+   "segment": 8,
+   "sub": "GUNSKIRCHEN LIBERATED",
+   "type": "date"
+  },
+  {
+   "cue": "The price was staggering",
+   "items": [
+    {
+     "label": "TANKS LOST",
+     "value": "71"
+    },
+    {
+     "label": "GERMANS KILLED",
+     "value": "6,000+"
+    },
+    {
+     "label": "GERMANS CAPTURED",
+     "value": "16,000"
+    }
+   ],
+   "segment": 10,
+   "title": "THE PRICE \u2014 AND THE TALLY",
+   "type": "checklist"
+  },
+  {
+   "cue": "Thirty-three years later, in 1978",
+   "date": "1978",
+   "segment": 12,
+   "sub": "THE PRESIDENTIAL UNIT CITATION",
+   "type": "date"
+  },
+  {
+   "segment": 2,
+   "type": "wiki-quote",
+   "cue": "came to review them",
+   "article": "761st Tank Battalion (United States)",
+   "highlight": "General George S. Patton reviewed the battalion and made a speech to the men"
+  },
+  {
+   "segment": 9,
+   "type": "wiki-quote",
+   "cue": "they met troops of the Soviet Red Army",
+   "article": "761st Tank Battalion (United States)",
+   "highlight": "the 761st was one of the first American units to reach Steyr, Austria, at the Enns River"
+  },
+  {
+   "segment": 11,
+   "type": "wiki-quote",
+   "cue": "awarded him the Medal of Honor",
+   "article": "Ruben Rivers",
+   "highlight": "In 1997, he was awarded the Medal of Honor, the nation's highest military decoration for valor"
+  }
+ ]
+}

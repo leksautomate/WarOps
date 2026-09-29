@@ -1,0 +1,267 @@
+{
+ "script_file": "/home/hatch/workspace/history-video/projects/761st-tank-battalion-183-days_script/script.txt",
+ "wpm": 150.0,
+ "seg_min": 10.0,
+ "seg_max": 18.0,
+ "total_est_seconds": 170.4,
+ "segments": [
+  {
+   "index": 0,
+   "text": "They were told Black men could not fight in tanks. The 761st Tank Battalion answered with 183 days of uninterrupted combat. They were the Black Panthers.",
+   "span": [
+    0,
+    153
+   ],
+   "sentences": 3,
+   "est_start": 0.0,
+   "est_end": 10.4,
+   "est_duration": 10.4,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 1,
+   "text": "This is how they fought across Europe.\n\nActivated in 1942, the battalion trained for nearly two years in the Jim Crow South \u2014 Kentucky, Louisiana, Texas.",
+   "span": [
+    154,
+    307
+   ],
+   "sentences": 2,
+   "est_start": 10.4,
+   "est_end": 20.8,
+   "est_duration": 10.4,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 2,
+   "text": "White units shipped overseas after two or three months. The 761st drilled, waited, and drilled again.\n\nThen General George Patton came to review them. He said: \"Men, you're the first Negro tankers to ever fight in the American Army.",
+   "span": [
+    308,
+    540
+   ],
+   "sentences": 4,
+   "est_start": 20.8,
+   "est_end": 36.4,
+   "est_duration": 15.6,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": [
+    {
+     "mention": "General George Patton",
+     "person_name": "George S. Patton",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
+     "image_page": "https://commons.wikimedia.org/wiki/File%3AGeneral_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
+     "image_title": "File:General_George_Patton_by_Robert_F._Cranston,_Lee_Elkins,_and_Harry_Warnecke,_1945,_color_carbro_print,_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
+     "license_note": "Commons: CC0 / Robert F. Cranston / Harry Warnecke",
+     "start_frac": 0.4655,
+     "end_frac": 0.786
+    }
+   ],
+   "person_name": "George S. Patton"
+  },
+  {
+   "index": 3,
+   "text": "I would never have asked for you if you weren't good.\"\n\nOn November 7th, 1944, they entered the line in Lorraine, France, attached to the 26th Infantry Division \u2014 often at the very tip of the advance.",
+   "span": [
+    541,
+    741
+   ],
+   "sentences": 2,
+   "est_start": 36.4,
+   "est_end": 51.2,
+   "est_duration": 14.8,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 4,
+   "text": "At Moyenvic, at Vic-sur-Seille, at Morville, the fighting was point-blank and brutal.\n\nNovember alone cost them 156 casualties. Fourteen tanks were knocked out; twenty more were damaged.",
+   "span": [
+    742,
+    928
+   ],
+   "sentences": 3,
+   "est_start": 51.2,
+   "est_end": 62.0,
+   "est_duration": 10.8,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 5,
+   "text": "They had been fighting for weeks. They would not be pulled from the line for months.\n\nIn December, the Germans smashed through the Ardennes. The 761st was rushed north to Belgium to relieve the surrounded 101st Airborne at Bastogne.",
+   "span": [
+    929,
+    1161
+   ],
+   "sentences": 4,
+   "est_start": 62.0,
+   "est_end": 77.6,
+   "est_duration": 15.6,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 6,
+   "text": "At the town of Tillet, with just eleven tanks, they attacked for two straight days alongside the 87th Infantry Division. They lost nine tanks \u2014 and they took the town.",
+   "span": [
+    1162,
+    1329
+   ],
+   "sentences": 2,
+   "est_start": 77.6,
+   "est_end": 89.6,
+   "est_duration": 12.0,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 7,
+   "text": "After the Bulge, they smashed through the Siegfried Line itself, tearing open the road that let the 4th Armored Division pour into Germany.\n\nThen came the drive across the Reich \u2014 town after town falling to the Black Panthers in an advance the Germans could not stop.",
+   "span": [
+    1331,
+    1598
+   ],
+   "sentences": 2,
+   "est_start": 89.6,
+   "est_end": 108.4,
+   "est_duration": 18.8,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": [],
+   "person_name": "Paul L. Bates"
+  },
+  {
+   "index": 8,
+   "text": "On May 4th, 1945, alongside the 71st Infantry Division, they liberated the Gunskirchen concentration camp in Austria \u2014 freeing thousands of prisoners the Nazis had left to die.",
+   "span": [
+    1600,
+    1776
+   ],
+   "sentences": 1,
+   "est_start": 108.4,
+   "est_end": 119.6,
+   "est_duration": 11.2,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 9,
+   "text": "Days later, at Steyr on the Enns River, they met troops of the Soviet Red Army \u2014 among the first Americans to do so. 183 days after it began, their war was over.",
+   "span": [
+    1778,
+    1939
+   ],
+   "sentences": 2,
+   "est_start": 119.6,
+   "est_end": 132.8,
+   "est_duration": 13.2,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 10,
+   "text": "The price was staggering: nearly half the battalion became casualties, and seventy-one tanks were lost. In return, they killed over six thousand German soldiers and captured nearly sixteen thousand more.",
+   "span": [
+    1941,
+    2144
+   ],
+   "sentences": 2,
+   "est_start": 132.8,
+   "est_end": 144.8,
+   "est_duration": 12.0,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": []
+  },
+  {
+   "index": 11,
+   "text": "Sergeant Ruben Rivers refused to abandon his men after his tank was hit, fighting on until his wounds killed him. Fifty-three years later, America finally awarded him the Medal of Honor.",
+   "span": [
+    2146,
+    2332
+   ],
+   "sentences": 2,
+   "est_start": 144.8,
+   "est_end": 157.2,
+   "est_duration": 12.4,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": [
+    {
+     "mention": "Sergeant Ruben Rivers",
+     "person_name": "Ruben Rivers",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Staff_Sergeant_Ruben_Rivers%2C_WWII_Medal_of_Honor_recipient_%28cropped%29.jpg",
+     "image_page": "https://commons.wikimedia.org/wiki/File:Staff_Sergeant_Ruben_Rivers%2C_WWII_Medal_of_Honor_recipient_(cropped).jpg",
+     "image_title": "File:Staff Sergeant Ruben Rivers, WWII Medal of Honor recipient (cropped).jpg",
+     "license_note": "Commons: Public domain",
+     "start_frac": 0.0,
+     "end_frac": 0.4032
+    }
+   ],
+   "person_name": "Ruben Rivers"
+  },
+  {
+   "index": 12,
+   "text": "They came home to prejudice, not parades. Thirty-three years later, in 1978, President Jimmy Carter presented the battalion with its Presidential Unit Citation. 183 days. Four campaigns. A continent crossed. Come out fighting.",
+   "span": [
+    2334,
+    2560
+   ],
+   "sentences": 6,
+   "est_start": 157.2,
+   "est_end": 170.4,
+   "est_duration": 13.2,
+   "image_url": null,
+   "image_page": null,
+   "image_title": null,
+   "license_note": null,
+   "people": [
+    {
+     "mention": "President Jimmy Carter",
+     "person_name": "Jimmy Carter",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+     "image_page": "https://commons.wikimedia.org/wiki/File%3AJimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+     "image_title": "File:Jimmy_Carter_Official_Portrait2_(3x4_cropped).jpg",
+     "license_note": "Commons: Public domain / Department of Defense. Department of the Navy. Naval Photographic Center",
+     "start_frac": 0.3407,
+     "end_frac": 0.5885
+    }
+   ],
+   "person_name": "Jimmy Carter"
+  }
+ ]
+}
