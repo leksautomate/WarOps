@@ -1,0 +1,297 @@
+{
+  "script_file": "script.txt",
+  "wpm": 150.0,
+  "seg_min": 12.0,
+  "seg_max": 20.0,
+  "total_est_seconds": 237.6,
+  "segments": [
+    {
+      "index": 0,
+      "text": "October 25th, 1944. Dawn over the Philippine Sea. American lookouts freeze at their binoculars — on the horizon, the pagoda masts of the Imperial Japanese Navy. The most powerful battleship force Japan ever built.",
+      "span": [
+        0,
+        213
+      ],
+      "sentences": 4,
+      "est_start": 0.0,
+      "est_end": 13.6,
+      "est_duration": 13.6,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 1,
+      "text": "Sailing straight at it: thirteen small American ships with no business being there.\n\nThey called themselves Taffy 3. Six escort carriers — slow, thin-skinned, built on merchant hulls. Three destroyers.",
+      "span": [
+        214,
+        415
+      ],
+      "sentences": 4,
+      "est_start": 13.6,
+      "est_end": 25.6,
+      "est_duration": 12.0,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 2,
+      "text": "Four destroyer escorts. Thirteen ships under Rear Admiral Clifton Sprague. Against them: Vice Admiral Takeo Kurita's Center Force. Four battleships including the Yamato, the largest warship ever built, plus cruisers and destroyers.",
+      "span": [
+        416,
+        647
+      ],
+      "sentences": 4,
+      "est_start": 25.6,
+      "est_end": 38.4,
+      "est_duration": 12.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 3,
+      "text": "Twenty-three warships.\n\nSprague had minutes. His carriers turned south for a rain squall, launching every plane they had. Then the order that became legend: small boys attack. His destroyers turned into the Japanese fleet.",
+      "span": [
+        648,
+        870
+      ],
+      "sentences": 5,
+      "est_start": 38.4,
+      "est_end": 52.0,
+      "est_duration": 13.6,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 4,
+      "text": "By every measure, suicide.\n\nFirst was the USS Johnston. Her captain, Commander Ernest Evans, had promised his crew: this is going to be a fighting ship. Now he rang up flank speed and charged alone — one destroyer against four battleships.",
+      "span": [
+        871,
+        1110
+      ],
+      "sentences": 4,
+      "est_start": 52.0,
+      "est_end": 68.4,
+      "est_duration": 16.4,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 5,
+      "text": "Johnston tore through shellfire, closed to torpedo range, and blew the bow off the heavy cruiser Kumano. The Japanese column staggered. Behind her came the Hoel and Heermann, launching torpedoes at the battleships.",
+      "span": [
+        1112,
+        1326
+      ],
+      "sentences": 3,
+      "est_start": 68.4,
+      "est_end": 81.6,
+      "est_duration": 13.2,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 6,
+      "text": "Then the smallest of them all: the destroyer escort Samuel B. Roberts, built to hunt submarines. Her captain, Lieutenant Commander Robert Copeland, told his men the truth: this will be a fight against overwhelming odds from which survival cannot be expected.",
+      "span": [
+        1328,
+        1586
+      ],
+      "sentences": 3,
+      "est_start": 81.6,
+      "est_end": 98.0,
+      "est_duration": 16.4,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 7,
+      "text": "We will do what damage we can. Then he charged the cruiser line.\n\nFor two hours the little ships fought like demons. Johnston dueled battleships until her magazines ran dry.",
+      "span": [
+        1587,
+        1760
+      ],
+      "sentences": 4,
+      "est_start": 98.0,
+      "est_end": 110.0,
+      "est_duration": 12.0,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 8,
+      "text": "The Roberts closed to point-blank range and pounded cruisers with her small guns. Above, American pilots with empty racks made dummy dives to keep the gunners' heads down.\n\nThen the impossible.",
+      "span": [
+        1761,
+        1954
+      ],
+      "sentences": 3,
+      "est_start": 110.0,
+      "est_end": 122.4,
+      "est_duration": 12.4,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 9,
+      "text": "Kurita — convinced the fury meant fleet carriers, not escort carriers — turned his mighty force away. The Yamato, which had fired its eighteen-inch guns in anger for one of the only times in history, sailed off.",
+      "span": [
+        1955,
+        2166
+      ],
+      "sentences": 2,
+      "est_start": 122.4,
+      "est_end": 137.2,
+      "est_duration": 14.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 10,
+      "text": "Japan's most powerful fleet retreated from thirteen small ships.\n\nThe price was written in blood. The Gambier Bay sank under battleship fire — the only American carrier ever sunk by naval gunfire.",
+      "span": [
+        2167,
+        2363
+      ],
+      "sentences": 3,
+      "est_start": 137.2,
+      "est_end": 150.0,
+      "est_duration": 12.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 11,
+      "text": "The Hoel fought until she rolled over. The Roberts took fourteen-inch shells through her engine room and went down stern first. Her survivors spent two days in shark-filled water.\n\nAnd the Johnston.",
+      "span": [
+        2364,
+        2562
+      ],
+      "sentences": 4,
+      "est_start": 150.0,
+      "est_end": 162.8,
+      "est_duration": 12.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 12,
+      "text": "For hours she shielded the carriers. Evans, wounded and bleeding, refused to leave his post until she could fight no more. She sank at ten past ten. Evans was never seen again.",
+      "span": [
+        2563,
+        2739
+      ],
+      "sentences": 4,
+      "est_start": 162.8,
+      "est_end": 175.6,
+      "est_duration": 12.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 13,
+      "text": "He received the Medal of Honor.\n\nThat afternoon the kamikazes came. The St. Lo took a suicide plane through her flight deck and exploded — the first major warship ever sunk by a kamikaze.",
+      "span": [
+        2740,
+        2927
+      ],
+      "sentences": 4,
+      "est_start": 175.6,
+      "est_end": 189.2,
+      "est_duration": 13.6,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 14,
+      "text": "Taffy 3 had survived the battleships only to bleed from the sky.\n\nWhen the smoke cleared, more than a thousand American sailors were dead, four ships on the ocean floor.",
+      "span": [
+        2928,
+        3097
+      ],
+      "sentences": 2,
+      "est_start": 189.2,
+      "est_end": 201.2,
+      "est_duration": 12.0,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 15,
+      "text": "Kurita had lost three heavy cruisers and limped home. The invasion of the Philippines went on.\n\nHistorians still argue why Kurita turned away — confusion, exhaustion, the ghost of a mightier fleet.",
+      "span": [
+        3098,
+        3295
+      ],
+      "sentences": 3,
+      "est_start": 201.2,
+      "est_end": 214.0,
+      "est_duration": 12.8,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 16,
+      "text": "The sailors of Taffy 3 needed no explanation. They had charged the most powerful battleships on earth in ships made of tin, and the battleships blinked.\n\nThe last stand of the tin can sailors.",
+      "span": [
+        3296,
+        3488
+      ],
+      "sentences": 3,
+      "est_start": 214.0,
+      "est_end": 227.6,
+      "est_duration": 13.6,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    },
+    {
+      "index": 17,
+      "text": "Thirteen ships against twenty-three. The most lopsided victory in naval warfare — won not by armor or guns, but by men who refused to run.",
+      "span": [
+        3489,
+        3627
+      ],
+      "sentences": 2,
+      "est_start": 227.6,
+      "est_end": 237.6,
+      "est_duration": 10.0,
+      "image_url": null,
+      "image_page": null,
+      "image_title": null,
+      "license_note": null
+    }
+  ]
+}

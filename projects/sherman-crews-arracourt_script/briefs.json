@@ -1,0 +1,82 @@
+{
+ "0": {
+  "expect": "WWII France 1944, foggy fields or US infantry/armor advancing",
+  "reject": "Pacific theater, desert, modern reenactment, title cards, swastika banners as focus"
+ },
+ "1": {
+  "expect": "US Sherman tanks column or parked, France 1944",
+  "reject": "German tanks as heroes, Pacific, modern museum, title cards"
+ },
+ "2": {
+  "expect": "Map of Arracourt/Lorraine or US armor in France 1944",
+  "reject": "Pacific, modern graphics, unrelated battle maps"
+ },
+ "3": {
+  "expect": "US tanks or troops halted/waiting, France 1944, Moselle region",
+  "reject": "Combat action mismatch is OK; reject Pacific, modern, title cards"
+ },
+ "4": {
+  "expect": "German Panther tanks, 1944",
+  "reject": "Tiger tanks mislabeled, modern replicas, museum close-ups, model kits"
+ },
+ "5": {
+  "expect": "US 4th Armored Division troops or armor, France 1944",
+  "reject": "Other divisions' insignia as focus, Pacific, modern"
+ },
+ "6": {
+  "expect": "Panther tank or US armor, ETO 1944",
+  "reject": "Wrong tank models presented as Panthers, modern reenactment"
+ },
+ "7": {
+  "expect": "Sherman tank crew, ETO 1944",
+  "reject": "German crew, modern reenactors, studio portraits"
+ },
+ "8": {
+  "expect": "US artillery firing or P-47 Thunderbolts, 1944",
+  "reject": "Modern aircraft, wrong artillery era, Pacific"
+ },
+ "9": {
+  "expect": "Fog/mist battlefield or tanks in fog, WWII",
+  "reject": "Clear sunny parade, modern footage"
+ },
+ "10": {
+  "expect": "Sherman tanks in defensive/hull-down positions or advancing, 1944",
+  "reject": "German perspective only, modern, title cards"
+ },
+ "11": {
+  "expect": "Tank combat or firing Shermans, WWII ETO",
+  "reject": "Post-war exercises, modern, video-game footage"
+ },
+ "12": {
+  "expect": "Destroyed German Panther tanks, France 1944",
+  "reject": "Destroyed Allied tanks presented as German, modern scrapyard"
+ },
+ "13": {
+  "expect": "German troops or tanks, 1944, disorganized retreat/breakdown",
+  "reject": "Victorious German propaganda framing, modern"
+ },
+ "14": {
+  "expect": "P-47 Thunderbolts attacking or German column under air attack, 1944",
+  "reject": "Modern jets, wrong aircraft type, Pacific"
+ },
+ "15": {
+  "expect": "Shermans maneuvering through French countryside or fog, 1944",
+  "reject": "Static museum displays, modern reenactment"
+ },
+ "16": {
+  "expect": "Combined arms: infantry with armor, artillery firing, or aircraft, WWII",
+  "reject": "Single-service parade shots, modern"
+ },
+ "17": {
+  "expect": "US armor advancing or German tanks knocked out, France 1944",
+  "reject": "German victory framing, modern"
+ },
+ "18": {
+  "expect": "Sherman tanks, France 1944, or battle aftermath",
+  "reject": "Excessive gore close-ups, modern"
+ },
+ "19": {
+  "expect": "US Sherman tanks, France 1944, triumphant or moving",
+  "reject": "Pacific theater, modern, title cards"
+ }
+}
