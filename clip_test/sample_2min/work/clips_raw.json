@@ -1,0 +1,100 @@
+{
+ "clips": [
+  {
+   "segment": 2,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_02_0.mp4",
+   "url": "https://archive.org/details/HERE_IS_GERMANY",
+   "download_url": "https://archive.org/download/HERE_IS_GERMANY/HERE_IS_GERMANY_512kb.mp4",
+   "license": "http://creativecommons.org/licenses/publicdomain/",
+   "duration": 6.01,
+   "source": "internet_archive",
+   "source_id": "ia:HERE_IS_GERMANY",
+   "query": "german moscow soviet union adolf hitler expected collapse",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_02_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_02_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_02_f3.jpg"
+   ]
+  },
+  {
+   "segment": 3,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_03_0.mp4",
+   "url": "https://archive.org/details/this-is-radio-free-europe-1964_",
+   "download_url": "https://archive.org/download/this-is-radio-free-europe-1964_/This%20Is%20Radio%20Free%20Europe%20%281964%29.mp4",
+   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "duration": 6.01,
+   "source": "internet_archive",
+   "source_id": "ia:this-is-radio-free-europe-1964_",
+   "query": "german red army joseph stalin's government believed command",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_03_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_03_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_03_f3.jpg"
+   ]
+  },
+  {
+   "segment": 4,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_04_0.mp4",
+   "url": "https://archive.org/details/NPC-2104",
+   "download_url": "https://archive.org/download/NPC-2104/428-npc-2104%20Germans%20Capture%20Dieppe.ogv",
+   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "duration": 6.0,
+   "source": "internet_archive",
+   "source_id": "ia:NPC-2104",
+   "query": "moscow soviet union germans german extraordinary kilometers capturing",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_04_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_04_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_04_f3.jpg"
+   ]
+  },
+  {
+   "segment": 6,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_06_0.mp4",
+   "url": "https://commons.wikimedia.org/wiki/File:Why_Project_Flytrap%E2%80%99s_testing_procedures_are_important_for_the_U_S_Army_(966543).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Why_Project_Flytrap%E2%80%99s_testing_procedures_are_important_for_the_U_S_Army_%28966543%29.webm",
+   "license": "Public domain",
+   "duration": 6.01,
+   "source": "wikimedia_commons",
+   "source_id": "commons:195308682",
+   "query": "red army germans divisions raising destroy trained faster",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_06_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_06_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_06_f3.jpg"
+   ]
+  },
+  {
+   "segment": 7,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_07_0.mp4",
+   "url": "https://commons.wikimedia.org/wiki/File:Euchorthippus_pulvinatus_--_Gelber_Dickkopf-Grash%C3%BCpfer_--_Siberian_Straw_Grasshopper.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Euchorthippus_pulvinatus_--_Gelber_Dickkopf-Grash%C3%BCpfer_--_Siberian_Straw_Grasshopper.webm",
+   "license": "CC BY 3.0",
+   "duration": 6.01,
+   "source": "wikimedia_commons",
+   "source_id": "commons:144577136",
+   "query": "december siberian general georgy zhukov moscow temperatures divisions",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_07_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_07_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_07_f3.jpg"
+   ]
+  },
+  {
+   "segment": 8,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_08_0.mp4",
+   "url": "https://archive.org/details/NPC-2951",
+   "download_url": "https://archive.org/download/NPC-2951/NPC-2951.ogv",
+   "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "duration": 6.01,
+   "source": "internet_archive",
+   "source_id": "ia:NPC-2951",
+   "query": "france january germans blitzkrieg retreating newspaper conquered soldiers",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_08_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_08_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clipwork/clip_frames/clip_08_f3.jpg"
+   ]
+  }
+ ]
+}

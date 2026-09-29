@@ -1,0 +1,219 @@
+{
+  "segments_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/segments.json",
+  "voice": "avocado_v2:MAI_03",
+  "language": "en",
+  "speed": 100,
+  "total_duration": 119.81,
+  "full_audio": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/narration_full.mp3",
+  "segments": [
+    {
+      "index": 0,
+      "text": "In 1941, the Soviet Union looked finished. When Germany launched Operation Barbarossa in June, three million German soldiers stormed across the Soviet border — the largest invasion in human history.",
+      "est_duration": 12.0,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_00.mp3",
+      "duration": 13.01,
+      "start": 0.0,
+      "end": 13.01,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/7_PZd_1941_BIS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3A7_PZd_1941_BIS.jpg",
+      "image_title": "File:7 PZd 1941 BIS.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain). Source page: https://commons.wikimedia.org/wiki/File:7_PZd_1941_BIS.jpg",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 1,
+      "text": "Within weeks, entire Soviet armies were surrounded. Hundreds of thousands of soldiers were captured, and thousands of tanks and aircraft were destroyed on the ground.",
+      "est_duration": 10.0,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_01.mp3",
+      "duration": 9.48,
+      "start": 13.01,
+      "end": 22.49,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Prigionieri_Armata_Rossa_sacca_di_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3APrigionieri_Armata_Rossa_sacca_di_Kiev.jpg",
+      "image_title": "File:Prigionieri Armata Rossa sacca di Kiev.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain). Source page: https://commons.wikimedia.org/wiki/File:Prigionieri_Armata_Rossa_sacca_di_Kiev.jpg",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 2,
+      "text": "By autumn, German panzers stood within sight of Moscow, and the world expected the Soviet Union to collapse.\n\nBut it didn't. And the reason starts with what Adolf Hitler got wrong.",
+      "est_duration": 12.4,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_02.mp3",
+      "duration": 10.51,
+      "start": 22.49,
+      "end": 33.0,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bundesarchiv_Bild_183-B15500%2C_Russland%2C_Dorf_vor_Moskau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-B15500%2C_Russland%2C_Dorf_vor_Moskau.jpg",
+      "image_title": "File:Bundesarchiv Bild 183-B15500, Russland, Dorf vor Moskau.jpg",
+      "license_note": "CC BY-SA 3.0 de per Wikimedia Commons - attribution required (Britting). ShareAlike: adaptations must carry the same license.",
+      "person_name": "Adolf Hitler",
+      "people": [
+        {
+          "mention": "Adolf Hitler",
+          "person_name": "Adolf Hitler",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+          "image_page": "https://commons.wikimedia.org/wiki/File%3AHitler_portrait_crop_%28cropped%29%282%29.jpg",
+          "image_title": "File:Hitler_portrait_crop_(cropped)(2).jpg",
+          "license_note": "Commons: CC BY-SA 3.0 de / Heinrich Hoffmann",
+          "start_frac": 0.8722,
+          "end_frac": 1.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "The German high command planned for a short war. They believed the Red Army would shatter like glass, and that Joseph Stalin's government would crumble under the first blow.",
+      "est_duration": 11.6,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_03.mp3",
+      "duration": 9.07,
+      "start": 33.0,
+      "end": 42.07,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Heinz_Guderian_with_Walter_Model_on_the_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3AHeinz_Guderian_with_Walter_Model_on_the_front.jpg",
+      "image_title": "File:Heinz Guderian with Walter Model on the front.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain). Source page: https://commons.wikimedia.org/wiki/File:Heinz_Guderian_with_Walter_Model_on_the_front.jpg",
+      "person_name": "Joseph Stalin",
+      "people": [
+        {
+          "mention": "Joseph Stalin's",
+          "person_name": "Joseph Stalin",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/StalinCropped1943.jpg",
+          "image_page": "https://commons.wikimedia.org/wiki/File%3AStalinCropped1943.jpg",
+          "image_title": "File:StalinCropped1943.jpg",
+          "license_note": "Commons: Public domain / Franklin D. Roosevelt Library Public Domain Photographs",
+          "start_frac": 0.6416,
+          "end_frac": 1.0
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "They counted on capturing Moscow before winter, and they packed no winter clothing for their troops.\n\nInstead, the Soviet Union did something extraordinary. As the Germans advanced, more than fifteen hundred factories were packed onto trains and shipped thousands of kilometers east, beyond the reach of German bombers.",
+      "est_duration": 19.2,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_04.mp3",
+      "duration": 18.12,
+      "start": 42.07,
+      "end": 60.19,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Battle_of_Moscow_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Moscow_4.jpg",
+      "image_title": "File:Battle of Moscow 4.jpg",
+      "license_note": "CC BY 4.0 per Wikimedia Commons - attribution required (Министерство обороны Российской Федерации).",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 5,
+      "text": "In the Urals and Siberia, entire industrial cities rose from empty steppe in a matter of months — and the tanks rolling off those lines went straight to the front.",
+      "est_duration": 12.0,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_05.mp3",
+      "duration": 9.07,
+      "start": 60.19,
+      "end": 69.26,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/T-34_prototypes_fire1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3AT-34_prototypes_fire1.jpg",
+      "image_title": "File:T-34 prototypes fire1.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain). Source page: https://commons.wikimedia.org/wiki/File:T-34_prototypes_fire1.jpg",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 6,
+      "text": "At the same time, the Red Army kept raising new divisions faster than the Germans could destroy them. Men who had never held a rifle were trained, armed, and thrown into the line.",
+      "est_duration": 13.2,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_06.mp3",
+      "duration": 9.55,
+      "start": 69.26,
+      "end": 78.82,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/RIAN_archive_301_An_attack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3ARIAN_archive_301_An_attack.jpg",
+      "image_title": "File:RIAN archive 301 An attack.jpg",
+      "license_note": "CC BY-SA 3.0 per Wikimedia Commons - attribution required (Maksimov / Максимов). ShareAlike: adaptations must carry the same license. Source page: https://commons.wikimedia.org/wiki/File:RIAN_archive_301_An_attack.jpg",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 7,
+      "text": "Then came December. In temperatures of forty degrees below zero, fresh Siberian divisions under General Georgy Zhukov struck the exhausted German army outside Moscow. German engines froze solid.",
+      "est_duration": 11.2,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_07.mp3",
+      "duration": 12.55,
+      "start": 78.82,
+      "end": 91.37,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Battle_of_Moscow_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Moscow_5.jpg",
+      "image_title": "File:Battle of Moscow 5.jpg",
+      "license_note": "CC BY 4.0 per Wikimedia Commons - attribution required (Министерство обороны Российской Федерации).",
+      "person_name": "Georgy Zhukov",
+      "people": [
+        {
+          "mention": "General Georgy Zhukov",
+          "person_name": "Georgy Zhukov",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_%28cropped%29.jpg",
+          "image_page": "https://commons.wikimedia.org/wiki/File%3A%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%96%D1%83%D0%BA%D0%BE%D0%B2_%D0%B2_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B5_%28cropped%29.jpg",
+          "image_title": "File:Георгий_Константинович_Жуков_в_военной_форме_(cropped).jpg",
+          "license_note": "Commons: CC BY 4.0 / не указан",
+          "start_frac": 0.4948,
+          "end_frac": 0.9413
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Soldiers wrapped their boots in newspaper. The blitzkrieg that had conquered France in six weeks ground to a halt in the snow.\n\nBy January, the Germans were retreating — their first major defeat of the war.",
+      "est_duration": 14.4,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_08.mp3",
+      "duration": 11.83,
+      "start": 91.37,
+      "end": 103.2,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Captured_Germans_in_Tula_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3ACaptured_Germans_in_Tula_1941.jpg",
+      "image_title": "File:Captured Germans in Tula 1941.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain).",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 9,
+      "text": "The Soviet Union survived 1941 not because of one brilliant decision, but because of scale: its land, its factories, its people, and a willingness to sacrifice everything to keep fighting.",
+      "est_duration": 12.0,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_09.mp3",
+      "duration": 12.12,
+      "start": 103.2,
+      "end": 115.32,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/End_of_Battle_of_Moscow_by_mos.ru_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3AEnd_of_Battle_of_Moscow_by_mos.ru_01.jpg",
+      "image_title": "File:End of Battle of Moscow by mos.ru 01.jpg",
+      "license_note": "CC BY 4.0 per Wikimedia Commons - attribution required (Главархив Москвы).",
+      "person_name": null,
+      "people": []
+    },
+    {
+      "index": 10,
+      "text": "Hitler had planned for a sprint. He got a war of attrition he could never win.",
+      "est_duration": 6.4,
+      "audio_file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/audio/seg_10.mp3",
+      "duration": 4.49,
+      "start": 115.32,
+      "end": 119.81,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/A_Soviet_machine_gunner_covers_the_infantry_attacking_near_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_page": "https://commons.wikimedia.org/wiki/File%3AA_Soviet_machine_gunner_covers_the_infantry_attacking_near_Tula.jpg",
+      "image_title": "File:A Soviet machine gunner covers the infantry attacking near Tula.jpg",
+      "license_note": "Public domain per Wikimedia Commons (Public domain).",
+      "person_name": "Adolf Hitler",
+      "people": [
+        {
+          "mention": "Hitler",
+          "person_name": "Adolf Hitler",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bundesarchiv_Bild_183-S33882%2C_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "image_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-S33882%2C_Adolf_Hitler.jpg",
+          "image_title": "File:Bundesarchiv Bild 183-S33882, Adolf Hitler.jpg",
+          "license_note": "Commons: CC BY-SA 3.0 de / Bundesarchiv",
+          "start_frac": 0.0,
+          "end_frac": 1.0
+        }
+      ]
+    }
+  ]
+}

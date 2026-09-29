@@ -1,0 +1,49 @@
+{
+  "topic": "T-34 tank Soviet factory production 1942",
+  "generated_at": "2026-09-24T18:58:21.444378+00:00",
+  "searches": [
+    {
+      "strategy": "commons",
+      "query": "T-34 tank Soviet factory production 1942 historical",
+      "hits": 10
+    },
+    {
+      "strategy": "archive",
+      "query": "T-34 tank Soviet factory production 1942",
+      "hits": 10
+    },
+    {
+      "strategy": "general",
+      "query": "T-34 tank Soviet factory production 1942 public domain images",
+      "hits": 20
+    }
+  ],
+  "candidates": [
+    {
+      "kind": "image",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/T-34_Soviet_tank_monument%2C_Theatral_Square_Donetsk%2C_Ukraine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page_url": "https://commons.wikimedia.org/wiki/File%3AT-34_Soviet_tank_monument%2C_Theatral_Square_Donetsk%2C_Ukraine.JPG",
+      "page_title": "File:T-34 Soviet tank monument, Theatral Square Donetsk, Ukraine.JPG",
+      "domain": "upload.wikimedia.org",
+      "found_via": "commons",
+      "verdict": "auto_approve",
+      "license_note": "CC BY-SA 3.0 per Wikimedia Commons - attribution required (Ferran Cornellà). ShareAlike: adaptations must carry the same license. Source page: https://commons.wikimedia.org/wiki/File:T-34_Soviet_tank_monument,_Theatral_Square_Donetsk,_Ukraine.JPG",
+      "width": 3648,
+      "height": 2736,
+      "artist": "Ferran Cornellà"
+    },
+    {
+      "kind": "image",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/T-34_prototypes_fire1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page_url": "https://commons.wikimedia.org/wiki/File%3AT-34_prototypes_fire1.jpg",
+      "page_title": "File:T-34 prototypes fire1.jpg",
+      "domain": "upload.wikimedia.org",
+      "found_via": "commons",
+      "verdict": "auto_approve",
+      "license_note": "Public domain per Wikimedia Commons (Public domain). Source page: https://commons.wikimedia.org/wiki/File:T-34_prototypes_fire1.jpg",
+      "width": 2031,
+      "height": 1113,
+      "artist": "unknown(Work of the state organization USSR)"
+    }
+  ]
+}

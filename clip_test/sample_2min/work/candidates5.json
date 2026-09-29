@@ -1,0 +1,111 @@
+{
+  "topic": "Soviet factory war production Urals 1942 workers tanks",
+  "generated_at": "2026-09-24T18:57:00.794836+00:00",
+  "searches": [
+    {
+      "strategy": "commons",
+      "query": "Soviet factory war production Urals 1942 workers tanks historical",
+      "hits": 0
+    },
+    {
+      "strategy": "archive",
+      "query": "Soviet factory war production Urals 1942 workers tanks",
+      "hits": 10
+    },
+    {
+      "strategy": "general",
+      "query": "Soviet factory war production Urals 1942 workers tanks public domain images",
+      "hits": 17
+    }
+  ],
+  "candidates": [
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/Sutton--Western-Technology-1930-1945/Sutton--WesternTechnologyAndSovietEconomicDevelopment1930To1945_djvu.txt",
+      "page_title": "Full text of \"Sutton--Western-Technology-1930-1945\" - Internet Archive",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/SovUSRelations33to42/SovUSRelations33to42_djvu.txt",
+      "page_title": "Full text of \"Soviet-U.S. Relations, 1933-1942\" - Internet Archive",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://dn720005.ca.archive.org/0/items/stalins-war-a-new-history-of-world-war-ii-by-sean-mc-meekin-z-lib.org/Stalins%20War%20A%20New%20History%20of%20World%20War%20II%20by%20Sean%20McMeekin%20%28z-lib.org%29.pdf",
+      "page_title": "Stalin's War: A New History of World War II",
+      "domain": "dn720005.ca.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/GermanyAndTheSecondWorldWarVolumeIVTheAttackOnTheSovietUnion/Germany%20and%20the%20Second%20World%20War%20Volume%20IV%20The%20Attack%20on%20the%20Soviet%20Union_djvu.txt",
+      "page_title": "Full text of \"Germany And The Second World War Volume IV The ...",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/download/summaryofsecondw00unse/summaryofsecondw00unse.pdf",
+      "page_title": "[PDF] Summary of the Second World War and its consequences",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia601505.us.archive.org/32/items/in.ernet.dli.2015.169489/2015.169489.Land-Of-The-Soviets-A-Handbook-Of-The-Ussr_text.pdf",
+      "page_title": "[PDF] Land Of The Soviets A Handbook Of The Ussr",
+      "domain": "ia601505.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/AnthonySuttonTriologyOfWesternTechnologyAndSovietEconomicDevelopment1917To19301930To19451945To1965/Anthony%20Sutton%20%20triology%20of%20Western%20Technology%20and%20Soviet%20Economic%20Development%201917%20To%201930%2C%201930%20to%201945%2C%201945%20to%201965_djvu.txt",
+      "page_title": "Full text of \"Anthony Sutton Triology Of Western Technology And ...",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia801708.us.archive.org/26/items/duranty-walter.-ussr.-the-story-of-soviet-russia/Duranty%20Walter.%20USSR.%20The%20Story%20of%20Soviet%20Russia.pdf",
+      "page_title": "SOVIET RUSSIA",
+      "domain": "ia801708.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    }
+  ]
+}

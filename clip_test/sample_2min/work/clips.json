@@ -1,0 +1,38 @@
+{
+ "clips": [
+  {
+   "segment": 0,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_invasion.mp4",
+   "url": "https://archive.org/details/1941-06-23_Nazis_War_On_Russia",
+   "download_url": "https://archive.org/download/1941-06-23_Nazis_War_On_Russia/1941-06-23_Nazis_War_On_Russia_512kb.mp4",
+   "license": "http://creativecommons.org/licenses/publicdomain/",
+   "duration": 4.5,
+   "source": "internet_archive",
+   "source_id": "ia:1941-06-23_Nazis_War_On_Russia",
+   "query": "manual: Universal newsreel June 1941, German motorcycle troops and tank columns advancing (t57-61.5)",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_f0.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_f1.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_f3.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg00_f4.jpg"
+   ]
+  },
+  {
+   "segment": 8,
+   "file": "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg08_retreat.mp4",
+   "url": "https://archive.org/details/BattleOfRussiaII",
+   "download_url": "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII_512kb.mp4",
+   "license": "http://creativecommons.org/licenses/publicdomain/",
+   "duration": 4.5,
+   "source": "internet_archive",
+   "source_id": "ia:BattleOfRussiaII",
+   "query": "manual: Why We Fight Battle of Russia Pt II, German troops retreating in snowstorm winter 1941-42 (t787-791.5)",
+   "check_frames": [
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg08_f0.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg08_f2.jpg",
+    "/home/hatch/workspace/history-video/clip_test/sample_2min/work/clips_final/seg08_f4.jpg"
+   ]
+  }
+ ]
+}
