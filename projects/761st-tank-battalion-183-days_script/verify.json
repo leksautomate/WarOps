@@ -1,0 +1,256 @@
+{
+ "model": "gemini-flash-latest",
+ "keys": {
+  "ok": 0,
+  "exhausted": 1,
+  "dead": 0
+ },
+ "results": [
+  {
+   "segment": 0,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_00.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/SC_196107-S_-_Pvt._L.C._Byrd%2C_Tuscaloosa%2C_Ala.%2C_is_a_commander_in_a_M-4_tank_of_a_Motor_Transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2851968989480%29.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:SC_196107-S_-_Pvt._L.C._Byrd%2C_Tuscaloosa%2C_Ala.%2C_is_a_commander_in_a_M-4_tank_of_a_Motor_Transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2851968989480%29.jpg",
+   "verdict": "accept",
+   "confidence": 0.98,
+   "subject_match": true,
+   "era_match": true,
+   "checks": {
+    "ai_generated_look": false,
+    "modern_objects": false,
+    "title_card_or_text_slate": false,
+    "watermark_or_logo": false,
+    "unrelated_subject": false,
+    "wrong_era": false
+   },
+   "reason": "The image is authentic World War II archival imagery depicting an African American tank crewman from the 761st Tank Battalion manning a machine gun hatch."
+  },
+  {
+   "segment": 1,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Parade_of_M-4_%28General_Sherman%29_and_M-3_%28General_Grant%29_tanks_in_training_maneuvers%2C_Ft_Knox.jpg",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Parade_of_M-4_%28General_Sherman%29_and_M-3_%28General_Grant%29_tanks_in_training_maneuvers%2C_Ft_Knox.jpg",
+   "verdict": "accept",
+   "confidence": 0.95,
+   "subject_match": true,
+   "era_match": true,
+   "checks": {
+    "ai_generated_look": false,
+    "modern_objects": false,
+    "title_card_or_text_slate": false,
+    "watermark_or_logo": false,
+    "unrelated_subject": false,
+    "wrong_era": false
+   },
+   "reason": "Authentic WWII period color footage showing a training column of U.S. M4 Sherman and M3 Lee tanks at Fort Knox."
+  },
+  {
+   "segment": 2,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/%22Lt._Gen._George_S._Patton%2C_U.S._Third_Army_commander%2C_pins_the_Silver_Star_on_Private_Ernest_A._Jenkins_of_New_York_Cit_-_NARA_-_535724.jpg",
+   "license": "Public domain - NARA",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Lt._Gen._George_S._Patton%2C_U.S._Third_Army_commander%2C_pins_the_Silver_Star_on_Private_Ernest_A._Jenkins_of_New_York_Cit_-_NARA_-_535724.jpg",
+   "verdict": "accept",
+   "confidence": 0.98,
+   "subject_match": true,
+   "era_match": true,
+   "checks": {
+    "ai_generated_look": false,
+    "modern_objects": false,
+    "title_card_or_text_slate": false,
+    "watermark_or_logo": false,
+    "unrelated_subject": false,
+    "wrong_era": false
+   },
+   "reason": "Authentic WWII archival photograph clearly showing General George Patton pinning a medal on a Black US soldier."
+  },
+  {
+   "segment": 3,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SC_196105-S_-_This_M-4_medium_tank_is_put_thru_the_%28%3F%29_in_the_mud_by_members_of_the_Motor_transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2852009195298%29.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:SC_196105-S_-_This_M-4_medium_tank_is_put_thru_the_%28%3F%29_in_the_mud_by_members_of_the_Motor_transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2852009195298%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "too many attempts \u2014 manual review required"
+  },
+  {
+   "segment": 4,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Knocked-out_German_and_American_tanks_near_Bezaumont%2C_Meurthe-et-Moselle%2C_France%2C_12_October_1944_%28148727540%29.jpg",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Knocked-out_German_and_American_tanks_near_Bezaumont%2C_Meurthe-et-Moselle%2C_France%2C_12_October_1944_%28148727540%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "too many attempts \u2014 manual review required"
+  },
+  {
+   "segment": 5,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/M-4_Sherman_Tanks_Lined_up_in_a_Snow_Covered_Field%2C_near_St._Vith%2C_Belgium_%2815726815434%29.jpg",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:M-4_Sherman_Tanks_Lined_up_in_a_Snow_Covered_Field%2C_near_St._Vith%2C_Belgium_%2815726815434%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 6,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/SC_336804_-_Tank_destroyer_going_through_belt_of_dragon%27s_teeth_to_assault_pillboxes_of_the_inner_defenses_of_the_Siegfried_Line._%2852206181068%29.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:SC_336804_-_Tank_destroyer_going_through_belt_of_dragon%27s_teeth_to_assault_pillboxes_of_the_inner_defenses_of_the_Siegfried_Line._%2852206181068%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 7,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_07.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/SC_335254_-_Tanks_of_the_9th_Armored_Division%2C_U.S._First_Army%2C_advance_to_the_front_through_the_town_of_Kleinbullesheim%2C_Germany._6_March%2C_1945._%2852231408918%29.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:SC_335254_-_Tanks_of_the_9th_Armored_Division%2C_U.S._First_Army%2C_advance_to_the_front_through_the_town_of_Kleinbullesheim%2C_Germany._6_March%2C_1945._%2852231408918%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 8,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_08.jpg",
+   "url": "https://archive.org/download/seventyfirstcame00unit/page/n5.jpg",
+   "license": "Public domain - U.S. Army, 71st Infantry Division unit history, published 1945; image is a crop of the booklet photograph",
+   "source": "https://archive.org/details/seventyfirstcame00unit/page/n5/mode/1up",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 9,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_09.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ElbeDay1945_%28NARA_ww2-121%29.jpg",
+   "license": "Public domain - NARA",
+   "source": "https://commons.wikimedia.org/wiki/File:ElbeDay1945_%28NARA_ww2-121%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 10,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_10.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/M4_burning_leipzig.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:M4_burning_leipzig.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 11,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/SC_196106-S_-_Cpl._Carlton_Chapman%2C_Pembroke%2C_Va.%2C_is_a_machine_gunner_in_an_M4_tank%2C_attached_to_a_Motor_Transport_unit_near_Nancy%2C_France._5_November%2C_1944._%2852297252594%29.jpg",
+   "license": "Public domain - U.S. Army Signal Corps",
+   "source": "https://commons.wikimedia.org/wiki/File:SC_196106-S_-_Cpl._Carlton_Chapman%2C_Pembroke%2C_Va.%2C_is_a_machine_gunner_in_an_M4_tank%2C_attached_to_a_Motor_Transport_unit_near_Nancy%2C_France._5_November%2C_1944._%2852297252594%29.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  },
+  {
+   "segment": 12,
+   "file": "/home/hatch/workspace/history-video/public/images/seg_12.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coburg1945.jpg",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Coburg1945.jpg",
+   "verdict": "unverified",
+   "confidence": 0.0,
+   "subject_match": null,
+   "era_match": null,
+   "checks": {},
+   "reason": "all API keys exhausted or invalid \u2014 manual review required"
+  }
+ ],
+ "manual_review": {
+  "reason": "Gemini free-tier key hit quota after 3 calls; remaining 10 segments reviewed by human eyeball gate per skills/core/verify-visuals.md (never auto-accepted).",
+  "reviewer": "driver",
+  "decisions": [
+   {
+    "segment": 3,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - M4 Sherman in deep mud, France Nov 1944 (SC 196105-S stamp visible). Real Signal Corps photo, matches mud/Lorraine narration."
+   },
+   {
+    "segment": 4,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Knocked-out German and American tanks near Bezaumont, Oct 1944. Matches point-blank fighting/casualty narration."
+   },
+   {
+    "segment": 5,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Period color photo: whitewashed Shermans in snow near St. Vith. Matches Ardennes/Bastogne winter narration."
+   },
+   {
+    "segment": 6,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - US tank destroyer passing through dragon's-teeth belt, Siegfried Line (SC 336804). Matches narration."
+   },
+   {
+    "segment": 7,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - 9th Armored Shermans advancing through Kleinbullesheim town street, Mar 1945 (SC 335254). Matches drive-across-the-Reich narration."
+   },
+   {
+    "segment": 8,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Liberated prisoners streaming from Gunskirchen on a road; crop of photo from 1945 US Army 71st Division unit history (PD). Dignified, matches liberation narration."
+   },
+   {
+    "segment": 9,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Elbe Day: US Lt. Robertson and Soviet Lt. Silvashko embracing, 'East Meets West' (NARA ww2-121). Representative US-Soviet linkup, matches narration."
+   },
+   {
+    "segment": 10,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Burned-out M4 Sherman on German street corner, Apr 1945 (SC 206454). Matches 'seventy-one tanks were lost' narration."
+   },
+   {
+    "segment": 11,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Black M4 machine gunner Cpl. Carlton Chapman, France Nov 1944 (SC 196106-S stamp visible). Matches Rivers battle-scene narration; Rivers portrait handled separately."
+   },
+   {
+    "segment": 12,
+    "verdict": "accept",
+    "note": "MANUAL ACCEPT - Black US light-tank crews in Coburg town square, 1945. Matches homecoming/legacy narration."
+   }
+  ]
+ }
+}

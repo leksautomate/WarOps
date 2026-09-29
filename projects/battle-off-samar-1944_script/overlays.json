@@ -1,0 +1,72 @@
+{
+ "overlays": [
+  {
+   "cue": "October 25th, 1944",
+   "date": "25 OCTOBER 1944",
+   "segment": 0,
+   "sub": "DAWN \u2014 THE PHILIPPINE SEA",
+   "type": "date"
+  },
+  {
+   "cue": "small boys attack",
+   "segment": 3,
+   "text": "SMALL BOYS ATTACK",
+   "type": "quote"
+  },
+  {
+   "cue": "Commander Ernest Evans",
+   "image": "images/overlay_evans.jpg",
+   "name": "ERNEST EVANS",
+   "rank": "COMMANDER",
+   "role": "CAPTAIN \u2014 USS JOHNSTON",
+   "segment": 4,
+   "type": "portrait"
+  },
+  {
+   "by": "LT. CMDR. ROBERT COPELAND",
+   "cue": "We will do what damage we can",
+   "segment": 7,
+   "text": "WE WILL DO WHAT DAMAGE WE CAN",
+   "type": "quote"
+  },
+  {
+   "cue": "eighteen-inch guns",
+   "kicker": "THE LARGEST BATTLESHIP EVER BUILT",
+   "label": "YAMATO'S MAIN GUNS",
+   "segment": 9,
+   "suffix": "-INCH",
+   "type": "stat",
+   "value": 18
+  },
+  {
+   "cue": "first major warship",
+   "kicker": "ST. LO",
+   "label": "FIRST KAMIKAZE SINKING",
+   "segment": 13,
+   "suffix": "ST",
+   "type": "stat",
+   "value": 1
+  },
+  {
+   "cue": "more than a thousand",
+   "label": "AMERICAN SAILORS DEAD",
+   "prefix": "MORE THAN ",
+   "segment": 14,
+   "type": "stat",
+   "value": 1000
+  },
+  {
+   "cue": "Thirteen ships against twenty-three",
+   "left": {
+    "label": "AMERICAN SHIPS",
+    "stat": 13
+   },
+   "right": {
+    "label": "JAPANESE WARSHIPS",
+    "stat": 23
+   },
+   "segment": 17,
+   "type": "split"
+  }
+ ]
+}

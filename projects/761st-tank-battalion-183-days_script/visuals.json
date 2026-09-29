@@ -1,0 +1,109 @@
+{
+ "project": "761st-tank-battalion-183-days",
+ "visuals": [
+  {
+   "segment": 0,
+   "local_file": "candidates_raw/seg00_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/SC_196107-S_-_Pvt._L.C._Byrd%2C_Tuscaloosa%2C_Ala.%2C_is_a_commander_in_a_M-4_tank_of_a_Motor_Transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2851968989480%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SC_196107-S_-_Pvt._L.C._Byrd%2C_Tuscaloosa%2C_Ala.%2C_is_a_commander_in_a_M-4_tank_of_a_Motor_Transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2851968989480%29.jpg",
+   "title": "SC 196107-S - Pvt. L.C. Byrd, Tuscaloosa, Ala., is a commander in a M-4 tank, near Nancy, France, 5 November 1944",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 1,
+   "local_file": "candidates_raw/seg01_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Parade_of_M-4_%28General_Sherman%29_and_M-3_%28General_Grant%29_tanks_in_training_maneuvers%2C_Ft_Knox.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Parade_of_M-4_%28General_Sherman%29_and_M-3_%28General_Grant%29_tanks_in_training_maneuvers%2C_Ft_Knox.jpg",
+   "title": "Parade of M-4 (General Sherman) and M-3 (General Grant) tanks in training maneuvers, Ft Knox",
+   "license": "Public domain"
+  },
+  {
+   "segment": 2,
+   "local_file": "candidates_raw/seg02_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/%22Lt._Gen._George_S._Patton%2C_U.S._Third_Army_commander%2C_pins_the_Silver_Star_on_Private_Ernest_A._Jenkins_of_New_York_Cit_-_NARA_-_535724.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:%22Lt._Gen._George_S._Patton%2C_U.S._Third_Army_commander%2C_pins_the_Silver_Star_on_Private_Ernest_A._Jenkins_of_New_York_Cit_-_NARA_-_535724.jpg",
+   "title": "Lt. Gen. George S. Patton pins the Silver Star on Private Ernest A. Jenkins - NARA 535724",
+   "license": "Public domain - NARA"
+  },
+  {
+   "segment": 3,
+   "local_file": "candidates_raw/seg03_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SC_196105-S_-_This_M-4_medium_tank_is_put_thru_the_%28%3F%29_in_the_mud_by_members_of_the_Motor_transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2852009195298%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SC_196105-S_-_This_M-4_medium_tank_is_put_thru_the_%28%3F%29_in_the_mud_by_members_of_the_Motor_transport_unit%2C_near_Nancy%2C_France._5_November%2C_1944._%2852009195298%29.jpg",
+   "title": "SC 196105-S - M-4 medium tank in the mud near Nancy, France, 5 November 1944",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 4,
+   "local_file": "candidates_raw/seg04_candidate2.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Knocked-out_German_and_American_tanks_near_Bezaumont%2C_Meurthe-et-Moselle%2C_France%2C_12_October_1944_%28148727540%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Knocked-out_German_and_American_tanks_near_Bezaumont%2C_Meurthe-et-Moselle%2C_France%2C_12_October_1944_%28148727540%29.jpg",
+   "title": "Knocked-out German and American tanks near Bezaumont, Meurthe-et-Moselle, France, 12 October 1944",
+   "license": "Public domain"
+  },
+  {
+   "segment": 5,
+   "local_file": "candidates_raw/seg05_candidate2.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/M-4_Sherman_Tanks_Lined_up_in_a_Snow_Covered_Field%2C_near_St._Vith%2C_Belgium_%2815726815434%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:M-4_Sherman_Tanks_Lined_up_in_a_Snow_Covered_Field%2C_near_St._Vith%2C_Belgium_%2815726815434%29.jpg",
+   "title": "M-4 Sherman Tanks Lined up in a Snow Covered Field, near St. Vith, Belgium",
+   "license": "Public domain"
+  },
+  {
+   "segment": 6,
+   "local_file": "candidates_raw/seg06_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/SC_336804_-_Tank_destroyer_going_through_belt_of_dragon%27s_teeth_to_assault_pillboxes_of_the_inner_defenses_of_the_Siegfried_Line._%2852206181068%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SC_336804_-_Tank_destroyer_going_through_belt_of_dragon%27s_teeth_to_assault_pillboxes_of_the_inner_defenses_of_the_Siegfried_Line._%2852206181068%29.jpg",
+   "title": "SC 336804 - Tank destroyer going through belt of dragon's teeth, Siegfried Line",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 7,
+   "local_file": "candidates_raw/seg07_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/SC_335254_-_Tanks_of_the_9th_Armored_Division%2C_U.S._First_Army%2C_advance_to_the_front_through_the_town_of_Kleinbullesheim%2C_Germany._6_March%2C_1945._%2852231408918%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SC_335254_-_Tanks_of_the_9th_Armored_Division%2C_U.S._First_Army%2C_advance_to_the_front_through_the_town_of_Kleinbullesheim%2C_Germany._6_March%2C_1945._%2852231408918%29.jpg",
+   "title": "SC 335254 - Tanks of the 9th Armored Division advance through Kleinbullesheim, Germany, 6 March 1945",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 8,
+   "local_file": "seg08_gunskirchen_select.jpg",
+   "image_url": "https://archive.org/download/seventyfirstcame00unit/page/n5.jpg",
+   "page_url": "https://archive.org/details/seventyfirstcame00unit/page/n5/mode/1up",
+   "title": "The Seventy-first Came - to Gunskirchen Lager (1945) - prisoners streaming from Gunskirchen, photo crop from scan page n5",
+   "license": "Public domain - U.S. Army, 71st Infantry Division unit history, published 1945; image is a crop of the booklet photograph"
+  },
+  {
+   "segment": 9,
+   "local_file": "candidates_raw/seg09_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ElbeDay1945_%28NARA_ww2-121%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ElbeDay1945_%28NARA_ww2-121%29.jpg",
+   "title": "ElbeDay1945 (NARA ww2-121) - 2nd Lt. William Robertson and Lt. Alexander Silvashko at the meeting of Soviet and American Armies, near Torgau",
+   "license": "Public domain - NARA"
+  },
+  {
+   "segment": 10,
+   "local_file": "candidates_raw/seg10_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/M4_burning_leipzig.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:M4_burning_leipzig.jpg",
+   "title": "M4 burning leipzig - SC 206454, M4 tank of Sgt. George K. Cuthbert Jr., Company C, 741st Tank Battalion",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 11,
+   "local_file": "candidates_raw/seg11_candidate2.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/SC_196106-S_-_Cpl._Carlton_Chapman%2C_Pembroke%2C_Va.%2C_is_a_machine_gunner_in_an_M4_tank%2C_attached_to_a_Motor_Transport_unit_near_Nancy%2C_France._5_November%2C_1944._%2852297252594%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SC_196106-S_-_Cpl._Carlton_Chapman%2C_Pembroke%2C_Va.%2C_is_a_machine_gunner_in_an_M4_tank%2C_attached_to_a_Motor_Transport_unit_near_Nancy%2C_France._5_November%2C_1944._%2852297252594%29.jpg",
+   "title": "SC 196106-S - Cpl. Carlton Chapman, machine gunner in an M4 tank, near Nancy, France, 5 November 1944",
+   "license": "Public domain - U.S. Army Signal Corps"
+  },
+  {
+   "segment": 12,
+   "local_file": "candidates_raw/seg12_candidate1.jpg",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coburg1945.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Coburg1945.jpg",
+   "title": "Coburg1945 - Crews of U.S. light tanks stand by awaiting call to clean out scattered Nazi machine gun nests in Coburg",
+   "license": "Public domain"
+  }
+ ]
+}

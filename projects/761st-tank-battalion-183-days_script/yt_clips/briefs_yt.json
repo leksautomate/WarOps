@@ -1,0 +1,30 @@
+{
+ "3": {
+  "expect": "American GIs advancing through a ruined French town, 1944, WWII France",
+  "reject": "tanks only with no infantry context is fine, but reject: modern reenactment, title cards, burned-in text, German soldiers as the focus"
+ },
+ "4": {
+  "expect": "Allied Sherman tank advancing in combat with infantry, WWII Western Front 1944-45",
+  "reject": "title cards, slates, modern reenactment, post-war footage, German tanks presented as Allied"
+ },
+ "5": {
+  "expect": "Allied armor or vehicles in snow, winter 1944-45, Western Front",
+  "reject": "camera slates, title cards, summer footage, modern reenactment"
+ },
+ "6": {
+  "expect": "American tanks/armor moving through a German town, 1945, WWII",
+  "reject": "modern title cards, burned-in captions, subscribe buttons, modern edits, non-WWII vehicles"
+ },
+ "7": {
+  "expect": "Siegfried Line dragon's teeth tank defenses, 1945, Western Front",
+  "reject": "title cards, modern footage, wrong theater (Pacific), reenactment"
+ },
+ "9": {
+  "expect": "American and Soviet soldiers meeting/mingling, 1945 linkup, WWII",
+  "reject": "combat fighting between them, title cards, modern reenactment, wrong uniforms"
+ },
+ "10": {
+  "expect": "Burning or destroyed military vehicle, WWII 1944",
+  "reject": "burned-in meme text, subscribe buttons, modern UI overlays, title cards, post-war wrecks"
+ }
+}

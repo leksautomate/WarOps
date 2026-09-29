@@ -1,0 +1,74 @@
+{
+ "0": {
+  "expect": "Japanese battleship Yamato at sea",
+  "reject": "American ships, modern vessels, carriers"
+ },
+ "1": {
+  "expect": "US Navy escort carriers (CVE)",
+  "reject": "battleships, destroyers, Japanese ships"
+ },
+ "2": {
+  "expect": "US destroyer underway in Pacific",
+  "reject": "carriers, battleships, Japanese ships"
+ },
+ "3": {
+  "expect": "US destroyer underway at sea",
+  "reject": "carriers, battleships"
+ },
+ "4": {
+  "expect": "USS Johnston DD-557 destroyer",
+  "reject": "other ship classes, carriers"
+ },
+ "5": {
+  "expect": "USS Hoel DD-533 destroyer",
+  "reject": "carriers, battleships"
+ },
+ "6": {
+  "expect": "USS Samuel B. Roberts DE-413 destroyer escort",
+  "reject": "large destroyers, carriers, battleships"
+ },
+ "7": {
+  "expect": "US destroyer underway, warship at sea",
+  "reject": "carriers, calm harbor scenes"
+ },
+ "8": {
+  "expect": "US Navy aircraft flying over escort carriers",
+  "reject": "Japanese planes, modern jets"
+ },
+ "9": {
+  "expect": "Japanese battleship Yamato under attack or at sea",
+  "reject": "American ships"
+ },
+ "10": {
+  "expect": "US escort carrier under fire, explosions at sea",
+  "reject": "undamaged ships in port"
+ },
+ "11": {
+  "expect": "US warships making smoke, battle at sea",
+  "reject": "peaceful scenes, harbor"
+ },
+ "12": {
+  "expect": "USS Johnston DD-557 destroyer",
+  "reject": "carriers, battleships"
+ },
+ "13": {
+  "expect": "massive explosion on US escort carrier (kamikaze hit)",
+  "reject": "undamaged ship, harbor scene"
+ },
+ "14": {
+  "expect": "damaged US carrier smoking at sea",
+  "reject": "undamaged ships"
+ },
+ "15": {
+  "expect": "Japanese heavy cruiser at sea",
+  "reject": "American ships, battleships"
+ },
+ "16": {
+  "expect": "US destroyer underway",
+  "reject": "carriers, battleships"
+ },
+ "17": {
+  "expect": "US escort carrier underway at sea",
+  "reject": "battleships, destroyers close-up"
+ }
+}
