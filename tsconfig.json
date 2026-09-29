@@ -1,0 +1,1 @@
+{"compilerOptions":{"allowSyntheticDefaultImports":true,"esModuleInterop":true,"forceConsistentCasingInFileNames":true,"isolatedModules":true,"jsx":"react-jsx","module":"esnext","moduleResolution":"node","resolveJsonModule":true,"skipLibCheck":true,"strict":true,"target":"es2018"}}
