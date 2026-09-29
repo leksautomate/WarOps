@@ -1,0 +1,111 @@
+{
+  "topic": "Soviet factory evacuation Ural 1941 tanks",
+  "generated_at": "2026-09-24T18:56:19.857941+00:00",
+  "searches": [
+    {
+      "strategy": "commons",
+      "query": "Soviet factory evacuation Ural 1941 tanks historical",
+      "hits": 0
+    },
+    {
+      "strategy": "archive",
+      "query": "Soviet factory evacuation Ural 1941 tanks",
+      "hits": 10
+    },
+    {
+      "strategy": "general",
+      "query": "Soviet factory evacuation Ural 1941 tanks public domain images",
+      "hits": 20
+    }
+  ],
+  "candidates": [
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://dn720005.ca.archive.org/0/items/stalins-war-a-new-history-of-world-war-ii-by-sean-mc-meekin-z-lib.org/Stalins%20War%20A%20New%20History%20of%20World%20War%20II%20by%20Sean%20McMeekin%20%28z-lib.org%29.pdf",
+      "page_title": "Stalin's War: A New History of World War II",
+      "domain": "dn720005.ca.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia800403.us.archive.org/14/items/12006101725387788211832364239649812/NationalSuicide-MilitaryAidToTheSovietUnionByAntonyC.Sutton-194.pdf",
+      "page_title": "[PDF] National Suicide: Military Aid to the Soviet Union",
+      "domain": "ia800403.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia801504.us.archive.org/9/items/in.ernet.dli.2015.136909/2015.136909.The-Incompatible-Allies-A-Memoir-History-Of-German-Soviet-Relations-1918-1941_text.pdf",
+      "page_title": "The Incompatible Allies A Memoir History Of German Soviet ...",
+      "domain": "ia801504.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/stwxt/Stalin%27s%20War%20of%20Extermination%20by%20Joachim%20Hoffmann%20%282001%29_djvu.txt",
+      "page_title": "Full text of \"Stalin's War of Extermination by Joachim Hoffmann (2001)\"",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia601401.us.archive.org/7/items/in.ernet.dli.2015.499234/2015.499234.foreign-policy_text.pdf",
+      "page_title": "[PDF] Foreign Policy Of Soviet Russia 1929-1941",
+      "domain": "ia601401.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://ia801708.us.archive.org/26/items/duranty-walter.-ussr.-the-story-of-soviet-russia/Duranty%20Walter.%20USSR.%20The%20Story%20of%20Soviet%20Russia.pdf",
+      "page_title": "SOVIET RUSSIA",
+      "domain": "ia801708.us.archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/download/summaryofsecondw00unse/summaryofsecondw00unse.pdf",
+      "page_title": "[PDF] Summary of the Second World War and its consequences",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    },
+    {
+      "kind": "page",
+      "image_url": null,
+      "thumbnail_url": null,
+      "page_url": "https://archive.org/stream/BarnesReviewRussiaAndTheJewsInTheSovietUnionUdoWalendy/Barnes_Review_Russia_and_the_Jews_in_the_Soviet_Union_Udo_Walendy_djvu.txt",
+      "page_title": "Full text of \"Barnes Review Russia And The Jews In The Soviet ...",
+      "domain": "archive.org",
+      "found_via": "archive",
+      "verdict": "review",
+      "license_note": "Web page lead - human must verify license of any image taken from it."
+    }
+  ]
+}
